@@ -1,0 +1,30 @@
+body {
+  font-family: 'Courier New', monospace;
+}
+
+img {
+  border-radius: 50%;
+}
+
+img {
+  width: 300px;
+  height: 250px;
+}
+
+/* check if this formatting fits with all images */
+
+h1 {
+  color: blue;
+  text-decoration: underline;
+}
+
+
+table,
+tr
+ {
+  border: 1px solid;
+}
+
+.element {
+  display: inline-block
+}
