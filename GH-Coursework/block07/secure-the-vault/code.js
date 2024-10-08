@@ -24,3 +24,4 @@ let code3 = 40 - 1
 
 /* alert creates a pop up dialogue box that shows the userMessage and the secret key combination. */
 alert(userMessage + "\n" + code1 + " " + code2 + " " + code3 + " ")
+
