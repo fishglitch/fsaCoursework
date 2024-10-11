@@ -1,4 +1,5 @@
 # Ignore these files from being visible on GH
 /todo.html
 #Ignore all files that end with PNG to be visible on GH
-*.pnggit ad
+*.png
+*.DS_Store
