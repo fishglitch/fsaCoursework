@@ -1,69 +1,69 @@
-// let user = {}
+let user = {}
 
-// user.age = 16
-// // user.name = "Ken";
-
-
-// if(user.age == 16){
-//     do this
-
-// console.log("Hello youth driver")
-// }else{
-//  console.log("no age, no go")
-//  }
-// console.log("cat" !== "horse");
+user.age = 16
+// user.name = "Ken";
 
 
-// isSunnyToday = 67
-// if (isSunnyToday == >65) {
-//     console.log("Let's go to the park!");
-// }
+if(user.age == 16){
+    do this
 
-// const hasChocolate = false;
+console.log("Hello youth driver")
+}else{
+ console.log("no age, no go")
+ }
+console.log("cat" !== "horse");
 
-// if (hasChocolate) {
-//     console.log("Get chocolate");
-// } else {
-//     console.log("vanilly")
-// }
 
-// const outofBread = true;
-// const outofEggs = false;
-// console.log("Go shop!");
-// if(outofBread) {
-//     console.log("Bread")
-// } else {
-//     console.log("eggs")
-// }
+isSunnyToday = 67
+if (isSunnyToday == >65) {
+    console.log("Let's go to the park!");
+}
 
-// let num = 9;
+const hasChocolate = false;
 
-// function addOneIfLessThan10AndEven(num){
-//     if(num <10 && !isEven(num)){
-//         return num + 1;
-//     }else{
-//         return num;
-//     }
+if (hasChocolate) {
+    console.log("Get chocolate");
+} else {
+    console.log("vanilly")
+}
 
-// }
+const outofBread = true;
+const outofEggs = false;
+console.log("Go shop!");
+if(outofBread) {
+    console.log("Bread")
+} else {
+    console.log("eggs")
+}
 
-// function subtractOneIfNumIsGreatedThanThreeOrIsOdd(num){
-//     if (num > 3 || otherNum > 0){
-//         return num - 1;
-//     }
-//     return num;
-// }
+let num = 9;
 
-// function square(num){
-//     return num * num
-// }
+function addOneIfLessThan10AndEven(num){
+    if(num <10 && !isEven(num)){
+        return num + 1;
+    }else{
+        return num;
+    }
 
-// num = addOneIfLessThan10AndEven(num);
-// num = subtractOneIfNumIsGreatedThanThreeOrIsOdd(num);
-// num = square(num);
+}
 
-// console.log("expected=64");
-// console.log("actual=" + num);
+function subtractOneIfNumIsGreatedThanThreeOrIsOdd(num){
+    if (num > 3 || otherNum > 0){
+        return num - 1;
+    }
+    return num;
+}
+
+function square(num){
+    return num * num
+}
+
+num = addOneIfLessThan10AndEven(num);
+num = subtractOneIfNumIsGreatedThanThreeOrIsOdd(num);
+num = square(num);
+
+console.log("expected=64");
+console.log("actual=" + num);
 
 
 let num = 10;
