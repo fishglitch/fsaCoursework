@@ -5,9 +5,15 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "../Unit2.TemperatureConverter.Starter"
+		},
+		{
+			"path": "../Unit2.Stats.Starter"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "mypersonalwebsite"
+		"liveServer.settings.multiRootWorkspaceName": "fsa-coursework"
 	}
 }

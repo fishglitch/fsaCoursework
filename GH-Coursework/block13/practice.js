@@ -1,8 +1,8 @@
+// const fruitsRefrigerator = ["apple", "orange", "lime"];
 
-console.log(20 == "20")
+// let fruitSaladFlavor = fruitsRefrigerator.pop();
 
-function myFunc = () => {}
+// console.log(fruitSaladFlavor)
 
-const myFunc() => {}
+// console.log(fruitsRefrigerator)
 
-function myFunc = () => {}
