@@ -1,19 +1,7 @@
 {
-	"folders": [
-		{
-			"path": "../mypersonalwebsite"
-		},
-		{
-			"path": "."
-		},
-		{
-			"path": "../Unit2.TemperatureConverter.Starter"
-		},
-		{
-			"path": "../Unit2.Stats.Starter"
-		}
-	],
-	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "Unit2.Stats.Starter"
-	}
+    "folders": [
+        {
+            "path": "GH-Coursework"
+        }
+    ]
 }
