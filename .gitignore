@@ -3,4 +3,4 @@
 /.DS_Store
 /TechJournal.md
 #Ignore all files that end with PNG to be visible on GH
-*.png
+
