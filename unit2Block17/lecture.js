@@ -34,7 +34,7 @@ fruit.sayHiFunction();
 // what if i have 50 different kinds of fruits? This would be difficult to make because we will repeat the objects above. So we make a CLASS. Let's capture that into a blueprint for fruit.
 
 class Fruit {
-// propoerty
+// property
     color;
     name;
     freshness = 5;
@@ -43,7 +43,7 @@ class Fruit {
     constructor(providedName, givenColor){
         this.name = providedName;
         this.color = givenColor;
-    }
+    }   
     ripen(){
         this.freshness - 1
     }
