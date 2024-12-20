@@ -1,13 +1,36 @@
+:root {
+  background-color: #827af1;
+}
 #root {
+
+  font-family: Marker Felt;
+  line-height: 1.5;
+  font-weight: 300;
+  font-size: 20pt;
+
+
+  color-scheme: light dark;
+  color: rgba(0, 0, 0, 0.87);
+
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: #827af1;
 }
 
-.red {
+.featPupId {
 
-  background-color: red;
+  background-color: rgb(56, 197, 190);
+}
+
+.hoverEffect {
+  transition: color 100ms, transform 150ms;
+}
+
+.hoverEffect:hover {
+  color: #bcff40;
+  transform: scale(1.3);
 }
 
 .logo {
