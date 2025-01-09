@@ -1,8 +1,12 @@
 import { useState, useEffect } from "react";
-import './app.css';
+import './index.css';
 
 function App() {
   const [formData, setFormData] = useState({ username: "", password: "" });
+
+useEffect(() =>{
+  console.log(formData);
+}, [formData])
 
   function handleChange(e) {
     const { fieldName, value } = e.target;
